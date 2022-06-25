@@ -14,7 +14,7 @@
 		"moment-duration-format": "^2.3.2",
 		"ms": "^2.1.2",
 		"node-emoji": "^1.10.0",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.7",
 		"npm": "^6.11.3",
 		"os": "^0.1.1",
 		"sequelize": "^5.18.0",
